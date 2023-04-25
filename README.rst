@@ -188,3 +188,5 @@ Stargazer over time
    :target: https://codecov.io/gh/OmkarPathak/pyresparser
 .. |Stargazers over time| image:: https://starchart.cc/OmkarPathak/pyresparser.svg
    :target: https://starchart.cc/OmkarPathak/pyresparser
+
+ vjfbhkvbfkuhgvkfrvgbhubvkhurekj
